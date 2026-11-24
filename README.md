@@ -23,8 +23,6 @@ Rincian metode, tabel hasil, analisis, dan keterbatasan ada di laporan (`laporan
 
 ```
 
-Data mentah (folder `data_uts_dl`) tidak ikut di repositori.
-
 ## Persiapan
 
 **Lingkungan.** Notebook dijalankan dengan Python 3.13 dan PyTorch (CPU).
