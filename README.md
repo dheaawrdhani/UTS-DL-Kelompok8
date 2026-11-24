@@ -1,3 +1,5 @@
+# UTS-DL-Kelompok8
+
 # UTS Deep Learning - Kelompok 8
 
 Repositori ini berisi pekerjaan UTS Deep Learning untuk tiga tugas pada data pabrik fiktif: klasifikasi multimodal, regresi sisa umur pakai (RUL), dan clustering multimodal.
@@ -19,6 +21,11 @@ Repositori ini berisi pekerjaan UTS Deep Learning untuk tiga tugas pada data pab
 
 Rincian metode, tabel hasil, analisis, dan keterbatasan ada di laporan (`laporan/`).
 
+<<<<<<< HEAD
+=======
+```
+
+>>>>>>> origin/main
 ## Persiapan
 
 **Lingkungan.** Notebook dijalankan dengan Python 3.13 dan PyTorch (CPU).
@@ -56,4 +63,8 @@ Jalankan sel dari atas ke bawah pada tiap notebook. Seed dibuat tetap (42) agar 
 |---|---|
 | `prediksi_klasifikasi.csv` | 16.000 baris: `id_unit`, `kelas` |
 | `prediksi_rul.csv` | 300 baris: `id_unit`, `rul` (0 sampai 150) |
+<<<<<<< HEAD
 | `cluster.csv` | 36.000 baris: `id_sampel`, `cluster` (5 klaster) |
+=======
+| `cluster.csv` | 36.000 baris: `id_sampel`, `cluster` (5 klaster) |
+>>>>>>> origin/main
